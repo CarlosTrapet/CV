@@ -1,50 +1,55 @@
-## Your Name
+## Carlos Trapet
 
-A sentence about who and what you are. Then a sentence about what you've achieved. And then a sentence about what you're looking for: what you would ideally be doing, with whom and in what environment.
+Fullstack Web Development student at Makers Academy with a background in linguistics and a Master's Degree in Conference Interpreting.
+Passionate about start-up culture.
+Especially interested in Natural Language Processing and anything that would allow me to merge my two passions: coding and languages.
 
-## Skills
+## Skills & Strengths
 
-#### This Skill
+#### Technical skills
 
-Descriptive paragraph of how capable you are at this skill and, if relevant, how it has developed.
+I have always strived to find a career path that would force me to learn on a daily basis and never get repetitive. I deemed the task impossible until I discovered Software Development.
+That very moment I started to teach myself how to code and immediately knew I wanted to be a part of that world.
 
-- Experience
-- Achievements
-- Evidence
+My tasks at Careerjet, a specialized search engine, included web scraping of HTML, text extraction and processing with the use of Regular Expressions and scripting languages like Perl, as well as handling XML and CSS feeds.
 
-#### Another Skill
+#### Analytical skills 
 
-Descriptive paragraph of how capable you are at this skill and, if relevant, how it has developed.
+My linguistics background enabled me to take an academic approach to learning software development as a first step, pairing it with the practical analysis and self critique typical in Conference Interpreting and the attention to detail required in legal and scientific translation.
 
-- I achieved A during my work at B (job, or otherwise)
-- I contributed to the growth of X while doing Y (job, or otherwise)
-- I built this, made this, broke this, fixed this, etc.
-- A link to some on-line evidence (blogs, videos, articles, etc.)
+My proudest achievements include:
+- Interpreting for the Spanish booth at the European Parliament during the Model European Union event
+- Decicing to learn Old Norse and actually getting to the point of being able to read the 1000 year old sagas
+- Conquering 3 of the highest peaks at the North Pole and managing to finish the Arctic Challenge!
 
 ## Education
 
-#### Makers Academy (start_date to end_date)
+#### Makers Academy (January 2018 - April 2018)
 
-- Curious and passionate about code. [PROVIDE EVIDENCE]
-- Fast, independent learner [PROVIDE EVIDENCE]
-- Great collaborator [PROVIDE EVIDENCE]
+Highly selective, full-time, three months long programming bootcamp which teaches, among others, following technologies and methodologies:
 
 - OOP, TDD, MVC, DDD
 - Agile/XP
 - Ruby, Rails, JavaScript
 - RSpec, Jasmine
 
-#### Your University / College (start_date to end_date)
+#### University of Granada 
 
-- Subject, any specialisms
-- Grade
-- Other cool stuff
+- Master's Degree in Conference Interpreting
+- AAB language combination, omnidirectional
+- Final thesis: The impact of a native or non-native speakers' accent on the listeners' perception of quality
 
-#### Any other qualifications
+#### University of the Basque Country (UPV)
 
-## Experience
+#### University of Geneva
 
-**Company Name** (start_date to end_date)    
-*Your job title*  
-**Company Name** (start_date to end_date)   
-*Your job title*  
+#### Saint Petersburg State University (SPBGU)
+
+## Professional Experience
+
+**Careerjet LTD** (Sept 2016 - January 2018)    
+*Country Manager Germanic Markets*
+
+**Freelance Translator and Interpreter** (Sept 2015 to Sept 2016)   
+*Interpreting at courtrooms, hearings and trials* 
+*Legal and scientific translations, as well as subtitling* 

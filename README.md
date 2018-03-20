@@ -4,7 +4,6 @@ Fullstack Web Development student at Makers Academy with a background in linguis
 Passionate about start-up culture.
 Especially interested in Natural Language Processing and anything that would allow me to merge my two passions: coding and languages.
 
-## Skills & Strengths
 
 #### Technical skills
 
@@ -18,9 +17,18 @@ My tasks at Careerjet, a specialized search engine, included web scraping of HTM
 My linguistics background enabled me to take an academic approach to learning software development as a first step, pairing it with the practical analysis and self critique typical in Conference Interpreting and the attention to detail required in legal and scientific translation.
 
 My proudest achievements include:
+- Deciding to learn the basics of Node.js, Express and MongoDB to build a basic app that lets the user post and interact with the database (in 3 days!)
 - Interpreting for the Spanish booth at the European Parliament during the Model European Union event
-- Decicing to learn Old Norse and actually getting to the point of being able to read the 1000 year old sagas
 - Conquering 3 of the highest peaks at the North Pole and managing to finish the Arctic Challenge!
+
+
+## Projects
+
+| Project         | Description     | Technologies    |
+| :-------------: | :-------------: | :-------------: |
+| [Flipper](https://github.com/CarlosTrapet/instagram-challenge)    | A Flickr -inspired app for users to post there photos and comment on (To be finished)    | Ruby, Rails, RSpec, Devise, HTML/CSS | 
+| [Platypus](https://github.com/CarlosTrapet/note_js)   | A fully functional testing framework built in vanilla JavaScript and inspired by Jasmine    | Javascript (and only Javascript! Well, and some HTML and CSS to make the tests look flashy) |
+
 
 ## Education
 
@@ -53,3 +61,9 @@ Highly selective, full-time, three months long programming bootcamp which teache
 **Freelance Translator and Interpreter** (Sept 2015 to Sept 2016)   
 *Interpreting at courtrooms, hearings and trials* 
 *Legal and scientific translations, as well as subtitling* 
+
+## Interests
+
+- Hiking and mountain climbing
+- Music writing and production - my dream is to some day have my own little home-studio
+- Martial arts

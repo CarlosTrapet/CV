@@ -1,8 +1,10 @@
 ## Carlos Trapet
 
 Fullstack Web Development student at Makers Academy with a background in linguistics and a Master's Degree in Conference Interpreting.
-Especially interested in Natural Language Processing and anything that would allow me to merge my two passions: coding and languages.
-My ideal first Developer -experience would involve being part of a team where all knowledge is shared and I get to own, live and share my code. Building software that is meaningful and makes the users' lives easier is a truly unique experience.
+
+- Especially interested in Natural Language Processing and anything that would allow me to merge my two passions: coding and languages.
+
+- My ideal first Developer -experience would involve being part of a team where all knowledge is shared and I get to own, live and share my code. Building software that is meaningful and makes the users' lives easier is a truly unique experience.
 
 
 

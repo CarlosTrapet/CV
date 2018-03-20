@@ -4,7 +4,7 @@ Fullstack Web Development student at Makers Academy with a background in linguis
 
 - Especially interested in Natural Language Processing and anything that would allow me to merge my two passions: coding and languages.
 
-- My ideal first Developer -experience would involve being part of a team where all knowledge is shared and I get to own, live and share my code. Building software that is meaningful and makes the users' lives easier is a truly unique experience.
+- My ideal first Developer -experience would involve being part of a team where all knowledge is shared, I get to work across the stack and take ownership, live and share my code. Building software that is meaningful and makes the users' lives easier is a truly unique experience.
 
 
 

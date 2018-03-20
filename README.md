@@ -1,8 +1,9 @@
 ## Carlos Trapet
 
 Fullstack Web Development student at Makers Academy with a background in linguistics and a Master's Degree in Conference Interpreting.
-Passionate about start-up culture.
 Especially interested in Natural Language Processing and anything that would allow me to merge my two passions: coding and languages.
+My ideal first Developer -experience would involve being part of a team where all knowledge is shared and I get to own, live and share my code. Building software that is meaningful and makes the users' lives easier is a truly unique experience.
+
 
 
 #### Technical skills
@@ -26,8 +27,9 @@ My proudest achievements include:
 
 | Project         | Description     | Technologies    |
 | :-------------: | :-------------: | :-------------: |
-| [Flipper](https://github.com/CarlosTrapet/instagram-challenge)    | A Flickr -inspired app for users to post there photos and comment on (To be finished)    | Ruby, Rails, RSpec, Devise, HTML/CSS | 
+| [Flipper](https://github.com/CarlosTrapet/instagram-challenge)    | A Flickr -inspired app for users to post photos and comment on them (To be finished).    | Ruby, Rails, RSpec, Devise, HTML/CSS | 
 | [Platypus](https://github.com/CarlosTrapet/note_js)   | A fully functional testing framework built in vanilla JavaScript and inspired by Jasmine    | Javascript (and only Javascript! Well, and some HTML and CSS to make the tests look flashy) |
+| [Takeaway App](https://github.com/CarlosTrapet/takeaway-challenge)   | My first project at Makers. I have come far! | Ruby, RSpec |
 
 
 ## Education
